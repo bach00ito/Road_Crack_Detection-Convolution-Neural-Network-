@@ -1,1 +1,2 @@
 # CNN
+ACNN(ConvolutionalNeuralNetwork)modelthatidentifieswhetherasurfacehascrackornot.Trainedonadatasetofatotal40000imageswith227x227pixelsonRGBchannels,with98percentaccuracy
